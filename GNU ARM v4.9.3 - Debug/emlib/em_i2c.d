@@ -46,11 +46,11 @@ emlib/em_i2c.o: \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_dmactrl.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_ports.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_pins.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_i2c.h:
 
@@ -144,12 +144,12 @@ e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\silicon
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_pins.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h:

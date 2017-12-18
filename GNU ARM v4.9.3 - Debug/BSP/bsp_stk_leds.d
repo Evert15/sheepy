@@ -45,16 +45,16 @@ BSP/bsp_stk_leds.o: \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_dmactrl.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_ports.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_pins.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_gpio.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_bus.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_assert.h \
  E:/simplicity_studio/developer/sdks/gecko_sdk_suite/v1.1/hardware/kit/common/bsp/bsp.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\slstk3400a_efm32hg\config\bspconfig.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp_bcp.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_usart.h
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_usart.h
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\em_device.h:
 
@@ -146,11 +146,11 @@ e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\silicon
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\efm32hg_af_pins.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h:
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_gpio.h:
 
@@ -164,4 +164,4 @@ e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\slstk3400a
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp_bcp.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_usart.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_usart.h:

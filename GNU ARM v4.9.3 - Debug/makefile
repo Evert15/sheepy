@@ -26,35 +26,35 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: SLSTK3400A_blink_4.axf
+all: sheepy.axf
 
 # Tool invocations
-SLSTK3400A_blink_4.axf: $(OBJS) $(USER_OBJS)
+sheepy.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GNU ARM C Linker'
-	arm-none-eabi-gcc -g -gdwarf-2 -mcpu=cortex-m0plus -mthumb -T "SLSTK3400A_blink_4.ld" -Xlinker --gc-sections -Xlinker -Map="SLSTK3400A_blink_4.map" --specs=nano.specs -o SLSTK3400A_blink_4.axf "./BSP/bsp_stk_leds.o" "./CMSIS/EFM32HG/startup_efm32hg.o" "./CMSIS/EFM32HG/system_efm32hg.o" "./emlib/em_assert.o" "./emlib/em_cmu.o" "./emlib/em_emu.o" "./emlib/em_gpio.o" "./emlib/em_i2c.o" "./emlib/em_usart.o" "./src/blink.o" -Wl,--start-group -lgcc -lc -lnosys -Wl,--end-group
+	arm-none-eabi-gcc -g -gdwarf-2 -mcpu=cortex-m0plus -mthumb -T "sheepy.ld" -Xlinker --gc-sections -Xlinker -Map="sheepy.map" --specs=nano.specs -o sheepy.axf "./BSP/bsp_stk_leds.o" "./CMSIS/EFM32HG/startup_efm32hg.o" "./CMSIS/EFM32HG/system_efm32hg.o" "./emlib/em_assert.o" "./emlib/em_cmu.o" "./emlib/em_emu.o" "./emlib/em_gpio.o" "./emlib/em_i2c.o" "./emlib/em_usart.o" "./src/blink.o" -Wl,--start-group -lgcc -lc -lnosys -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
-	@echo 'Building hex file: SLSTK3400A_blink_4.hex'
-	arm-none-eabi-objcopy -O ihex "SLSTK3400A_blink_4.axf" "SLSTK3400A_blink_4.hex"
+	@echo 'Building hex file: sheepy.hex'
+	arm-none-eabi-objcopy -O ihex "sheepy.axf" "sheepy.hex"
 	@echo ' '
 
-	@echo 'Building bin file: SLSTK3400A_blink_4.bin'
-	arm-none-eabi-objcopy -O binary "SLSTK3400A_blink_4.axf" "SLSTK3400A_blink_4.bin"
+	@echo 'Building bin file: sheepy.bin'
+	arm-none-eabi-objcopy -O binary "sheepy.axf" "sheepy.bin"
 	@echo ' '
 
-	@echo 'Building s37 file: SLSTK3400A_blink_4.s37'
-	arm-none-eabi-objcopy -O srec "SLSTK3400A_blink_4.axf" "SLSTK3400A_blink_4.s37"
+	@echo 'Building s37 file: sheepy.s37'
+	arm-none-eabi-objcopy -O srec "sheepy.axf" "sheepy.s37"
 	@echo ' '
 
 	@echo 'Running size tool'
-	arm-none-eabi-size "SLSTK3400A_blink_4.axf"
+	arm-none-eabi-size "sheepy.axf"
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) SLSTK3400A_blink_4.axf
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) sheepy.axf
 	-@echo ' '
 
 .PHONY: all clean dependents

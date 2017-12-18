@@ -49,13 +49,13 @@ src/blink.o: ../src/blink.c \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_gpio.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_bus.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_assert.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\slstk3400a_efm32hg\config\bspconfig.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp_bcp.h \
- C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_usart.h \
+ C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_usart.h \
  e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_i2c.h
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\device\siliconlabs\efm32hg\include\em_device.h:
@@ -158,11 +158,11 @@ e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_b
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_assert.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_cmu.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_cmu.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_assert.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_assert.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_bus.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_bus.h:
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp.h:
 
@@ -170,6 +170,6 @@ e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\slstk3400a
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\hardware\kit\common\bsp\bsp_bcp.h:
 
-C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\SLSTK3400A_blink_4\emlib_inc/em_usart.h:
+C:\Users\evert.DESKTOP-6EE9RU8\SimplicityStudio\v4_workspace\sheepy\emlib_inc/em_usart.h:
 
 e:\simplicity_studio\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_i2c.h:

@@ -82,6 +82,9 @@
 							<tool id="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.archiver.base.321053458" name="GNU ARM Archiver" superClass="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.archiver.base"/>
 						</toolChain>
 					</folderInfo>
+					<sourceEntries>
+						<entry excluding=".git/lfs|.git/objects/info|.git/objects/pack|.git/refs/tags|Sheep/.git/lfs|Sheep/.git/objects/info|Sheep/.git/objects/pack|Sheep/.git/refs/tags" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
 				</configuration>
 			</storageModule>
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
@@ -166,12 +169,15 @@
 							<tool id="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.archiver.base.127206513" name="GNU ARM Archiver" superClass="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.archiver.base"/>
 						</toolChain>
 					</folderInfo>
+					<sourceEntries>
+						<entry excluding=".git/lfs|.git/objects/info|.git/objects/pack|.git/refs/tags|Sheep/.git/lfs|Sheep/.git/objects/info|Sheep/.git/objects/pack|Sheep/.git/refs/tags" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
 				</configuration>
 			</storageModule>
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
 		</cconfiguration>
 	</storageModule>
-	<storageModule moduleId="com.silabs.ss.framework.ide.project.core.cpp" project.generation="18" projectCommon.boardIds="brd2012a:0.0.0.B01" projectCommon.buildArtifactType="EXE" projectCommon.importModeId="LINK_LIBRARIES" projectCommon.partId="mcu.arm.efm32.hg.efm32hg322f64" projectCommon.sdkId="com.silabs.sdk.stack.super:1.1.1._539906734" projectCommon.toolchainId="com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:4.9.3.20150529"/>
+	<storageModule moduleId="com.silabs.ss.framework.ide.project.core.cpp" project.generation="1" projectCommon.boardIds="brd2012a:0.0.0.B01" projectCommon.buildArtifactType="EXE" projectCommon.importModeId="LINK_LIBRARIES" projectCommon.partId="mcu.arm.efm32.hg.efm32hg322f64" projectCommon.sdkId="com.silabs.sdk.stack.super:1.1.1._539906734" projectCommon.toolchainId="com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:4.9.3.20150529"/>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="SLSTK3400A_blink_4.com.silabs.ss.framework.ide.project.core.cdt.cdtMbsProjectType.184937247" name="SLS CDT Project" projectType="com.silabs.ss.framework.ide.project.core.cdt.cdtMbsProjectType"/>
 	</storageModule>
